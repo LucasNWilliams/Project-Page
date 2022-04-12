@@ -1,4 +1,4 @@
-# Project Page
+# Project-Page
 This is my first GitHub Pages project.
 
 ## My Plans
